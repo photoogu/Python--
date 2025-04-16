@@ -1,0 +1,6 @@
+1. print
+2. loop
+3. collections
+4. function
+5. object
+6. main
